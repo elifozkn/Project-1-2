@@ -10,7 +10,15 @@ public class PuttingSimulator{
     }
 
     public void setBallPosition(Vector2D vector){
-        th
+        
+    }
+
+    public Vector2D getBallPosition(){
+
+    }
+
+    public void takeShot(Vector2D initialVelocity){
+        
     }
 
 }
